@@ -9,4 +9,4 @@ List of Drivers:
 •External Interrupt
 •LCD
 •Keypad
-•Seven Segment 
+•Seven Segment .
